@@ -2,11 +2,11 @@
   text-align: center;
 }
 
-* {
-  color: #fff;
+*{
+  color:#fff;
 }
 
-#app-background {
+#app-background{
   background-color: #141414;
   width: 100%;
   height: 100%;
@@ -18,42 +18,42 @@
   top: 0;
 }
 
-#header {
+#header{
   background-color: #141414;
   height: 50px;
   padding: 10px;
 }
 
-#main-links {
+#main-links{
   padding: 10px;
   display: inline-block;
 }
 
-.header-link {
+.header-link{
   padding-right: 1em;
   color: white;
   text-decoration: none;
 }
 
-#user-icon {
+#user-icon{
   background-size: cover;
   display: inline-block;
   width: 25px;
   height: 25px;
 }
 
-#user-icon-link {
+#user-icon-link{
   position: absolute;
   padding-top: 10px;
 }
 
-#logo {
+#logo{
   /* display: inline-block; */
   float: right;
   color: rgb(68, 71, 238);
   padding: 10px;
   margin-right: 10px;
-  font-family: "Bowlby One SC", cursive;
+  font-family: 'Bowlby One SC', cursive;
   font-size: 20px;
 }
 
