@@ -1,0 +1,33 @@
+.movie{
+    background-color: #78e08f;
+    padding: 7px;
+    border-radius: 1px;
+    border: 0.13em solid #1d1c1c;
+    /* box-shadow: 1px 1px 1px #1d1c1c; */
+    text-align: center;
+    position: relative;
+    background-size: cover;
+    min-height: 120px;
+    max-width: 130px;
+}
+
+/* .movies-box >a{
+    z-index:0;
+
+} */
+
+.movie:hover{
+    border: 0.13em solid #fff;
+}
+
+.plus{
+    float:right;
+    cursor: pointer;
+    color: #fff;
+}
+
+.minus{
+    float: right;
+    cursor: pointer;
+    color: #fff;
+}

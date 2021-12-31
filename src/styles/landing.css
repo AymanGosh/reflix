@@ -1,0 +1,37 @@
+#profiles-container{
+    position: fixed;
+    background-color: #141414;
+    height: 15em;
+    width: 80%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: -1;
+}
+
+.profiles-label{
+    width: 100%;
+    color: #fff;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.choose-profile{
+    padding:0
+}
+
+#sign-out{
+    padding: 5px 8px 8px 8px;
+    font-weight: bold;
+    background-color: rgba(77, 74, 74, 0.801);
+    color:  #141414;
+    display: inline-block;
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-size: .9em;
+}
+
+#sign-out:hover{
+    background-color: white;
+}

@@ -1,0 +1,17 @@
+#movie-details > img{
+    border-radius: 2%;
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding-top: 2em;
+    font-size: 20px;
+}
+
+#movie-details > .title{
+    font-weight: bold;
+    text-align: center;
+}
+
+#movie-details > .info{
+    padding: 2em
+}

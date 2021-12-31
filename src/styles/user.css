@@ -1,0 +1,36 @@
+
+.profile{
+    display: inline-block
+}
+
+.profile-link{
+    text-decoration: none;
+}
+
+li.profile:not(:last-child) {
+    margin: 0 3vw 0 0;
+}
+
+.profile-icon{
+    background-image: url(https://occ-0-2616-2774.1.nflxso.net/art/bd699/2f5075e….png);
+    min-height: 84px;
+    min-width: 84px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    border: 0.2em solid rgba(0, 0, 0, 0.4);
+    background-repeat: no-repeat;
+    background-color: #333;
+}
+
+.profile-icon:hover{
+    border: 0.2em solid #fff;
+    color:#fff
+}
+
+.profile-name{
+    display:block;
+    font-size: 12px;
+    color:#808080;
+    margin: .6em 0;
+}
+
